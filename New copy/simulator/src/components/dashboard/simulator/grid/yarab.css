@@ -1,0 +1,15 @@
+.tile{
+    width: 100%;
+    height: 500px;
+}
+#tp{
+    
+    width: 1500px;
+    height: 2400px;
+    
+}
+#drop{
+    width: 20px;
+    flex: 1;
+    
+  }

@@ -1,0 +1,15 @@
+.wrapper {
+  background: #04265c; /* fallback for old browsers */
+  background: -webkit-linear-gradient(
+    180deg,
+    #04265c 0%,
+    #0093e9 100%
+  ); /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(
+    180deg,
+    #04265c 0%,
+    #0093e9 100%
+  ); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+/*background-color: #0093E9;
+#background-image: linear-gradient(to right, #f64f59, #c471ed, #12c2e9);*/
